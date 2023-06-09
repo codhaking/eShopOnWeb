@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb-Codhaking
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: YOUR-SUBS-ID
+  SUBSCRIPTION-ID: d90693c1-643e-404e-b612-6628b1ef1735
   WEBAPP-NAME: az400-webapp-codhaking
 
 
